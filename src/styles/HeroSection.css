@@ -1,0 +1,106 @@
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 100px;
+    background-color: #fff;
+  }
+  
+  .hero-content {
+    max-width: 50%;
+  }
+  
+  .tag {
+    background: #ffecec;
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-size: 14px;
+    color: #ff4d4d;
+    font-weight: bold;
+  }
+  
+  h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #222;
+  }
+  
+  .highlight {
+    color: #ff4d4d;
+  }
+  
+  p {
+    font-size: 16px;
+    color: #666;
+    margin-top: 10px;
+  }
+  
+  .cta-buttons {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .get-started {
+    background: #ff4d4d;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-right: 15px;
+  }
+  
+  .watch-video {
+    background: none;
+    border: none;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .watch-video img {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+  }
+  
+  .customer-info {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .customer-info img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .rating {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .hero-image {
+    position: relative;
+  }
+  
+  .girl-image {
+    width: 400px;
+    border-radius: 20px;
+  }
+  
+  .pizza-card {
+    position: absolute;
+    bottom: -95px;
+    right: -10px;
+    width: 500px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  

@@ -1,0 +1,173 @@
+
+/* DELIVERY SECTION */
+.delivery-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff7f4;
+    padding: 3rem 5rem;
+  }
+  
+  /* LEFT SIDE */
+  .delivery-left {
+    max-width: 40%;
+  }
+  
+  .download-text {
+    color: #ef4444;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .delivery-title {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-top: 1rem;
+  }
+  
+  .delivery-title span {
+    color: #ef4444;
+  }
+  
+  .delivery-description {
+    color: #6b7280;
+    margin-top: 1rem;
+  }
+  
+  .delivery-buttons {
+    margin-top: 1.5rem;
+  }
+  
+  .app-button {
+    background-color: #ef4444;
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .app-button:hover {
+    background-color: #dc2626;
+  }
+  
+  /* COURIER INFO */
+  .courier-info {
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    background: white;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .courier-info img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  
+  .courier-name {
+    font-weight: bold;
+  }
+  
+  .courier-role {
+    font-size: 0.9rem;
+    color: #777;
+  }
+  
+  .phone-icon {
+    margin-left: auto;
+    color: #ef4444;
+    font-size: 1.5rem;
+  }
+  
+  /* RIGHT SIDE */
+  .delivery-right {
+    max-width: 50%;
+  }
+  
+  .delivery-card {
+    background: #fffbfa;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* LOCATION BAR */
+  .location {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+  }
+  
+  .profile-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-left: auto;
+  }
+  
+  /* FAST DELIVERY */
+  .fast-delivery {
+    display: flex;
+    align-items: center;
+    background: white;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-top: 1rem;
+  }
+  
+  .fast-delivery img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .fast-delivery-text {
+    margin-left: 1rem;
+  }
+  
+  .order-now {
+    background: #ef4444;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    border: none;
+  }
+  
+  /* CATEGORIES */
+  .categories {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+  }
+  
+  .category {
+    display: flex;
+    align-items: center;
+    background: white;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .category img {
+    width: 30px;
+    height: 30px;
+    margin-right: 0.5rem;
+  }
+  
+  /* POPULAR ITEMS */
+  .popular-items {
+    margin-top: 1rem;
+  }
+  
+  .popular-food img {
+    width: 60px;
+    height: 60px;
+    margin-right: 1rem;
+  }
+  
